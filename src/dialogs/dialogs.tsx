@@ -1,9 +1,11 @@
+import './App.css';
 
-export function moodTracker() {
+export  function Dialogs() {
   return (
     <div className="App">
-     
+    
     </div>
   );
 }
+
 
